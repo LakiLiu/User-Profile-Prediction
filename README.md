@@ -26,6 +26,7 @@ This Project used NLP and ML to predict user Gender and Age based on browsing hi
 
 ### III. Model and Evaluation
 (A) Best weak estimator - Naive Bayes (f1-score:0.74)
+
 (B) Stacking Model:
 - week estimators : Logistic Regression, Naive Bayes, KNN
 - performance : 0.73
